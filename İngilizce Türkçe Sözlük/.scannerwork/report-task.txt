@@ -1,0 +1,6 @@
+projectKey=proje_deneme_yanilma
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=proje_deneme_yanilma
+ceTaskId=d3f8ce54-7321-4978-b488-003fd4ebdcc0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d3f8ce54-7321-4978-b488-003fd4ebdcc0

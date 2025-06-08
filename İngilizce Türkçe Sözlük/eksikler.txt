@@ -1,0 +1,12 @@
+-Anlık translate modülü.
+-Wordle.
+-Wordchain.
+-Quiz sonrası doğru yanlış sayısı bildirme ve bir önceki menüye dönme.
+-Şifremi unuttum.(halloldu)
+-Bu kullanıcı adı/e-posta zaten kayıtlı.(halloldu)
+-Resimli veritabanı.
+-Ayarlarda kelime sayısını kaydedip çıktıktan sonra iki menü açılma sorunu.
+-Quizde bazen soru sorduğu dilde şıklarda 3 seçenek olma hatası.
+-Yeni kelime ekleme ayarında hata var ayar yapıldığında yalnızca eklenen kelime sayısı kadar soruyor.
+-Analiz raporu oluşturma ve yazdırma.
+-Word samples, cümle içinde kullanım.
